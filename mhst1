@@ -175,7 +175,8 @@
 		></script>
 		<link
 			rel="stylesheet"
-			href="https://fonts.googleapis.com/css?family=Outfit:100,200,300,regular,500,600,700,800%7CIBM+Plex+Sans+Hebrew:200,300,regular,500,600"
+			\
+href="https://fonts.googleapis.com/css?family=Outfit:100,200,300,regular,500,600,700,800%7CIBM+Plex+Sans+Hebrew:200,300,regular,500,600"
 			media="all"
 		/>
 
